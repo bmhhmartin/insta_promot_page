@@ -1,0 +1,188 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  .marg {
+		left: 60px;
+		top: 22px;
+	}
+	.box1 h4 {
+		font-size: 12pt;
+	}
+	.text-num {
+		left: 20px;
+		top: 18px;
+		font-size: 28px;
+	}
+    .box-p p {
+		font-size: 16px;
+		padding: 0 5px;
+	}
+	.heading-text h2 {
+		font-size: 20pt;
+	}
+	.heading-text h2 span {
+		font-size: 25pt;
+	}
+	.btn-area h2 {
+		font-size: 22px;
+	}
+	.owl-nav .owl-prev {
+		top: 30%;
+		
+	}
+	.owl-nav .owl-next {
+		top: 30%;
+	}
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+	.text-rights {
+		font-size: 16px;
+	}
+	.noticd {
+		float: left;
+		margin: 25px 0;
+	}
+	.share-icons {
+		float: left;
+		text-align: left;
+	}
+	.icon-ft li {
+		margin-top: 15%;
+	}
+	.share-icons h4::after {
+		left: 0;
+		width: 65%;
+	}
+	.noticd h4::after {
+		width: 13%;
+	}
+	.box-p p {
+		font-size: 13px;
+		padding: 0 5px;
+	}
+	.owl-nav .owl-prev {
+		top: 30%;
+		
+	}
+	.owl-nav .owl-next {
+		top: 30%;
+	}
+	.form-heading-text {
+		margin-top: 0;
+	}
+	.form-area {
+		padding: 50px 0 50px;
+		width: 65%;
+	}
+	.heading-text h2 {
+		text-align: center;
+		margin-top: 5%;
+	}
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+	.contact-area {
+		text-align: left;
+		line-height: 34px;
+		margin-left: 20px;
+	} 
+	.contact-area span {
+		font-size: 18px;
+	}
+	.footer-area {
+		padding: 40px 0 20px;
+	}
+	.noticd {
+		float: left;
+		margin: 25px 0;
+	}
+	.share-icons {
+		float: left;
+		text-align: left;
+	}
+	.icon-ft li {
+		margin-top: 15%;
+	}
+	.share-icons h4::after {
+		left: 0;
+		width: 65%;
+	}
+	.btn-area h2 {
+		font-size: 18px;
+	}
+	.btn-account {
+		padding: 10px 0;
+	}
+	.marg {
+		left: 22%;
+		top: 22px;
+	}
+	.text-num {
+		left: 8%;
+	}
+	.join-text p {
+		font-size: 14pt;
+		text-align: center;
+	}
+	.header-area {
+		min-height: 250px;
+	}
+	.form-heading-text {
+		margin-top: 0px;
+	}
+	.text-header-area {
+		padding-bottom: 0;
+	}
+	.submitarea {
+		padding: 10px 20px;
+		font-size: 10px;
+	}
+	.color-text {
+		font-size: 14px;
+	}
+	.form-area {
+		padding: 45px 0 45px;
+		width: 80%;
+	}
+	.heading-text h2 {
+		font-size: 20pt;
+		margin-top: 20%;
+	}
+	.all-box {
+		 margin-top: 0px;
+	}
+	.box-p p {
+		font-size: 16px;
+		padding: 0px 15px;
+	}
+	.btn-account {
+		width: 80%;
+	}
+	.box1 h4 {
+		font-size: 11pt;
+	}
+	.text-num {
+		top: 21px;
+		font-size: 21px;
+	}
+	.logo-area {
+		width: 48%;
+		float:left;
+	}
+	.logo-text {
+		width: 48%;
+		float: right;
+		font-size: 10px;
+	}
+	.heading-text h2 span {
+		font-size: 26pt;
+	}
+	.logo-area img {
+		width: 100%;
+	}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
